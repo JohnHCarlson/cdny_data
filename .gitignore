@@ -1,4 +1,4 @@
-# Environments 
+# Environments #
 .env 
 .venv 
 env/ 
@@ -8,7 +8,7 @@ env.bak/
 venv.bak/ 
 
 # Visual Studio Code # 
-.vscode/* 
+.vscode/
 !.vscode/settings.json 
 !.vscode/tasks.json 
 !.vscode/launch.json 
@@ -17,3 +17,5 @@ venv.bak/
 
 # Mac #
 .DS_Store
+
+# Project #
